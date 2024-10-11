@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="stacklok-logo-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="stacklok-logo-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/images/stacklok-logo-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/images/stacklok-logo-light.png">
   <img alt="Stacklok logo" src="stacklok-logo-light.png" width="420px">
 </picture>
 
